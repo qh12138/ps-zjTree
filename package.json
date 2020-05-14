@@ -1,6 +1,6 @@
 {
   "name": "ps-zjtree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ps-zjTree css",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [
     "tree"
   ],
-  "author": "qh",
-  "license": "ISC"
+  "author": "qh12138",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qh12138/ps-zjTree.git"
+  }
 }
